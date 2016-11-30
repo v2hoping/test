@@ -1,2 +1,2 @@
 # test
-联系Git使用
+联系Github使用
