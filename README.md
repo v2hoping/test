@@ -1,2 +1,2 @@
 # test
-联系Github使用
+练习Github使用
